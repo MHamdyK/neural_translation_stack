@@ -1,0 +1,8 @@
+{
+  "name": "Neural Translation Stack",
+  "description": "Translate Arabic speech to English speech with text transcripts and synthesized English audio. Upload an audio file or record directly.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
