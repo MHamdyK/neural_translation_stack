@@ -2,6 +2,9 @@
 
 A clean, modern, and mobile-responsive frontend web application designed to provide a user-friendly interface for speech-to-speech translation from Arabic to English. This project leverages cutting-edge AI technology through an external API to deliver accurate translations and synthesized speech.
 
+Web-App link: [Netlify](https://transcendent-granita-49e4ce.netlify.app/)
+
+
 ## Features
 
 *   **Audio Input:** Users can either upload an audio file (e.g., .wav, .mp3, .ogg) or record audio directly using their microphone.
